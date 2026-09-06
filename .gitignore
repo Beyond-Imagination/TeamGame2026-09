@@ -1,0 +1,38 @@
+# 의존성
+node_modules/
+
+# 빌드 결과 (npm run build 로 다시 만들 수 있음)
+dist/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 에디터 / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 로컬 설정 (개인 환경용, 공유하지 않음)
+.claude/settings.local.json
+.env
+.env.local
+*.local
+
+# 로그
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# 인물 사진 검수용 임시 파일 (scripts/candidates.mjs 가 만드는 것)
+public/_cand/
+public/_cand.html
+public/_cand.json
+public/_a*.html
+public/_chk.html

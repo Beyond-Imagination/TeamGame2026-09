@@ -1,0 +1,20 @@
+{
+  "name": "beyond-imagination-camp-games",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/inline.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  },
+  "description": "Beyond_Imagination 팀 2026년 9월 여름캠핑 단체전 게임 진행판 (5종목, 빔프로젝터 진행용)"
+}

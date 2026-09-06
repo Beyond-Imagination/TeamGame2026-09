@@ -1,0 +1,1226 @@
+{
+  "설명": "게임4 인물 맞추기 문제. name = 정답으로 인정할 이름, origin = 국내/해외, category = 분류, file = public/people/ 안의 사진 파일, crop = 지폐처럼 인물이 한쪽에 치우친 사진에서 얼굴 위치(가로% 세로%). 항목을 지우면 그 인물은 출제되지 않습니다. 사진을 바꾸려면 같은 파일명으로 덮어쓰세요. 사진 출처는 위키미디어(자유 이용 라이선스)이며 artist/license 에 표기가 들어 있습니다.",
+  "통계": {
+    "전체": 121,
+    "국내": 74,
+    "해외": 47,
+    "국내비율": "61%"
+  },
+  "people": [
+    {
+      "id": "p001",
+      "name": "손흥민",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p001.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg/960px-BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Ujishadow",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p002",
+      "name": "이강인",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p002.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg/960px-Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Republic of Korea from Seoul, Republic of Korea",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "id": "p003",
+      "name": "황희찬",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p003.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Explicit",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p005",
+      "name": "김연아",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p005.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/YuNaKimInVancouver.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Sfcphoto.KeunHwa",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p006",
+      "name": "박지성",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p006.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Park_Ji-Sung_20080429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Aloba Øyvind Vik",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "id": "p007",
+      "name": "오타니 쇼헤이",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p007.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Shohei_Ohtani_on_April_23%2C_2024_%282%29_53677091634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "All-Pro Reels on Flickr (Original version) UCinternational (Crop)",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "id": "p008",
+      "name": "리오넬 메시",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p008.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lionel_Messi_Argentina_v_Egypt_7_July_2026-112%28cropped%29.jpg/960px-Lionel_Messi_Argentina_v_Egypt_7_July_2026-112%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Bryan Berlin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p009",
+      "name": "크리스티아누 호날두",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p009.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cristiano_Ronaldo%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Dagmara Gurdziel / RC Lens",
+      "license": "Attribution"
+    },
+    {
+      "id": "p010",
+      "name": "킬리안 음바페",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p010.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg/960px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Carlo Bruil Fotografie",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p011",
+      "name": "엘링 홀란",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p011.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/960px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Bryan Berlin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p012",
+      "name": "아이유",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p012.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/221125_%EC%B2%AD%EB%A3%A1%EC%98%81%ED%99%94%EC%83%81_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_01_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "MCJoun",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p013",
+      "name": "지드래곤",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p013.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/G-Dragon_in_October_2025.jpg/960px-G-Dragon_in_October_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "티비텐 TV10",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p014",
+      "name": "싸이",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p014.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Psy_without_sunglasses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Eva Rinaldi",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "id": "p015",
+      "name": "태연 (소녀시대)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p015.png",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/230609_Kim_Tae_Yeon_%28%EA%B9%80%ED%83%9C%EC%97%B0%29.png/960px-230609_Kim_Tae_Yeon_%28%EA%B9%80%ED%83%9C%EC%97%B0%29.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p016",
+      "name": "로제 (블랙핑크)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p016.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Blackpink_Ros%C3%A9_Rimowa_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "TV10",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p017",
+      "name": "지수 (블랙핑크)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p017.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/20240226_Kim_Jisoo_%EA%B9%80%EC%A7%80%EC%88%98_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p018",
+      "name": "정국 (BTS)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p018.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Jung_Kook_of_BTS%2C_February_12%2C_2026_%281%29.png/960px-Jung_Kook_of_BTS%2C_February_12%2C_2026_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p019",
+      "name": "RM (BTS)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p019.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/RM_at_W_Korea_Love_Your_W%2C_November_2023.jpg/960px-RM_at_W_Korea_Love_Your_W%2C_November_2023.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p020",
+      "name": "진 (BTS)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p020.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/BTS_JIN_Airport_Departure_on_20250223_05.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "https://www.youtube.com/@_TV10",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p021",
+      "name": "제이홉 (BTS)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p021.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/J-Hope_at_the_2022_Fact_Music_Awards_on_October_8%2C_2022_%28cropped%29.jpg/960px-J-Hope_at_the_2022_Fact_Music_Awards_on_October_8%2C_2022_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Btspurplegalaxy",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p022",
+      "name": "임영웅",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p022.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lim_Young-woong_in_an_ad_for_%EA%B5%AC%EC%A0%84%EB%85%B9%EC%9A%A9_%28June_2020%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "구전녹용",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p023",
+      "name": "이영지",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p023.png",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Lee_Young-ji.png/960px-Lee_Young-ji.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p024",
+      "name": "카리나 (에스파)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p024.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Karina_at_Love_Your_W_event_2025.jpg/960px-Karina_at_Love_Your_W_event_2025.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "티비텐 TV10",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p025",
+      "name": "장원영 (아이브)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p025.png",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jang_Won-young_at_the_Bulgari_HDD_Seoul%2C_December_4%2C_2025.png/960px-Jang_Won-young_at_the_Bulgari_HDD_Seoul%2C_December_4%2C_2025.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p026",
+      "name": "마동석",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p026.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Don_Lee_by_Gage_Skidmore.jpg/960px-Don_Lee_by_Gage_Skidmore.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Gage Skidmore",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "id": "p027",
+      "name": "송강호",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p027.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Song_Gangho_2016.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Ministry of Information and Broadcasting",
+      "license": "GODL-India"
+    },
+    {
+      "id": "p028",
+      "name": "이정재",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p028.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/240305_Lee_Jung-jae_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p029",
+      "name": "정호연",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p029.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/HoYeon_Jung.jpg/960px-HoYeon_Jung.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Republic of Korea",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p030",
+      "name": "김고은",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p030.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Kim_Go-eun_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/960px-Kim_Go-eun_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "John Sears",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p031",
+      "name": "박서준",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p031.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Park_Seo-joon_for_Marie_Claire_Korea%2C_2023_%282%29.jpg/960px-Park_Seo-joon_for_Marie_Claire_Korea%2C_2023_%282%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Marie Claire korea",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p032",
+      "name": "한소희",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p032.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Han_So-Hee_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/960px-Han_So-Hee_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Desmond Herzfelder",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p033",
+      "name": "공유",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p033.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gong_Yoo_in_2021_-_3.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Marie Claire Korea",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p034",
+      "name": "하정우",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p034.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%ED%95%98%EC%A0%95%EC%9A%B0%2C_%EC%98%81%ED%99%94_%27%EC%8B%A0%EA%B3%BC_%ED%95%A8%EA%BB%98%27_%EC%A3%84_%EC%99%80_%EB%B2%8C_20%EC%9D%BC_%EA%B0%9C%EB%B4%89_%2813%29_%28cropped%29.jpg/960px-%ED%95%98%EC%A0%95%EC%9A%B0%2C_%EC%98%81%ED%99%94_%27%EC%8B%A0%EA%B3%BC_%ED%95%A8%EA%BB%98%27_%EC%A3%84_%EC%99%80_%EB%B2%8C_20%EC%9D%BC_%EA%B0%9C%EB%B4%89_%2813%29_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "sisaprime",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p035",
+      "name": "이병헌",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p035.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg/960px-Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Desmond Herzfelder",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p036",
+      "name": "전지현",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p036.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jun_Ji-hyun.jpg/960px-Jun_Ji-hyun.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Republic of Korea",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p037",
+      "name": "손예진",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p037.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Son_Ye-jin_%EC%86%90%EC%98%88%EC%A7%84_2024_02.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "티비텐",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p038",
+      "name": "현빈",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p038.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/960px-Hyun_Bin_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "John Sears",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p039",
+      "name": "박보검",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p039.png",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Park_Bo-gum_%EB%B0%95%EB%B3%B4%EA%B2%80_at_a_Celine_event_in_November_2024_5.png/960px-Park_Bo-gum_%EB%B0%95%EB%B3%B4%EA%B2%80_at_a_Celine_event_in_November_2024_5.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "티비텐 TV10 (TenAsia)",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "id": "p040",
+      "name": "차은우",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p040.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/240301_Cha_Eun-woo.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p042",
+      "name": "유재석",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p042.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Yoo_Jae_Suk_going_to_work_at_Happy_Together_on_August_19%2C_2017_%281%29.jpg/960px-Yoo_Jae_Suk_going_to_work_at_Happy_Together_on_August_19%2C_2017_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "F28STAR",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p043",
+      "name": "강호동",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p043.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/%27%ED%95%9C%EB%81%BC%EC%A4%8D%EC%87%BC%27_%EC%A0%9C%EC%9E%91%EB%B0%9C%ED%91%9C%ED%9A%8C_%ED%98%84%EC%9E%A5_14s.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p044",
+      "name": "신동엽",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p044.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/180503_%EC%8B%A0%EB%8F%99%EC%97%BD.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "dispatchsns",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p045",
+      "name": "조세호",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p045.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Choseho2020.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "재뻘TV",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p046",
+      "name": "양세형",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p046.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Yangsehyungin2020.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p047",
+      "name": "양세찬",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p047.jpg",
+      "crop": "67% 17%",
+      "zoom": 2.2,
+      "source": "사용자 제공 이미지",
+      "artist": "",
+      "license": ""
+    },
+    {
+      "id": "p048",
+      "name": "기안84",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p048.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/190102_%EA%B8%B0%EC%95%8884_%281%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "뉴스인스타",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p049",
+      "name": "백종원",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p049.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/%EB%B0%B1%EC%A2%85%EC%9B%90_%ED%95%9C%EB%8F%88_%EC%B6%94%EC%B6%9C.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "밥상위의 국가대표 우리돼지 한돈",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p050",
+      "name": "일론 머스크",
+      "origin": "해외",
+      "category": "기업인",
+      "file": "p050.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Justin Pacheco",
+      "license": "Public domain"
+    },
+    {
+      "id": "p051",
+      "name": "테일러 스위프트",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p051.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Cosmopolitan UK",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p052",
+      "name": "빌리 아일리시",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p052.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_3%29.jpg/960px-BillieEilishO2160622_%2819_of_45%29_%2852153214339%29_%28cropped_3%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Raph_PH",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p053",
+      "name": "로버트 다우니 주니어",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p053.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Robert_Downey_Jr._2014_Comic-Con.jpg/960px-Robert_Downey_Jr._2014_Comic-Con.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Gage Skidmore",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "id": "p054",
+      "name": "톰 크루즈",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p054.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tom_Cruise-2428.jpg/960px-Tom_Cruise-2428.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p055",
+      "name": "마크 저커버그",
+      "origin": "해외",
+      "category": "기업인",
+      "file": "p055.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Zuckerberg-Jourov%C3%A1_meeting_%282020%29%28cropped_4%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Xavier Lejeune",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p056",
+      "name": "스티브 잡스",
+      "origin": "해외",
+      "category": "기업인",
+      "file": "p056.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/960px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Matthew Yohe (talk)",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "id": "p057",
+      "name": "엠마 왓슨",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p057.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Emma_Watson_2013.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Georges Biard",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "id": "p059",
+      "name": "제니 (블랙핑크)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p059.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kim_Jennie_%28%EA%B9%80%EC%A0%9C%EB%8B%88%29_05.jpg/960px-Kim_Jennie_%28%EA%B9%80%EC%A0%9C%EB%8B%88%29_05.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "티비텐",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p060",
+      "name": "민윤기 (슈가)",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p060.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Suga_for_Marie_Claire_Korea%2C_May_2023_issue_07.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Marie Claire Korea",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p061",
+      "name": "김수현",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p061.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Kim_Soo-hyun_in_August_2024_-_2.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p062",
+      "name": "세종대왕",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p062.jpg",
+      "crop": "80% 40%",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/10000_won_serieVI_obverse.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "The Bank of Korea한국은행",
+      "license": "South Korean currency"
+    },
+    {
+      "id": "p063",
+      "name": "안중근",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p063.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/An_Jung-geun.JPG?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "id": "p064",
+      "name": "유관순",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p064.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ryu_Gwan-sun.jpg/960px-Ryu_Gwan-sun.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "id": "p065",
+      "name": "김구",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p065.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kim_Gu_in_1949.jpg/960px-Kim_Gu_in_1949.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain"
+    },
+    {
+      "id": "p066",
+      "name": "윤봉길",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p066.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg/960px-%EC%82%AC%EC%A7%841%28%EC%9C%A4%EB%B4%89%EA%B8%B8_%EC%84%A0%EC%84%9C%EC%9E%A5%EB%A9%B4%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "한인애국단 본부(안공근 집) 상하이시 황푸구 황푸난루 863에서",
+      "license": "Public domain"
+    },
+    {
+      "id": "p067",
+      "name": "알베르트 아인슈타인",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p067.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Oren Jack Turner",
+      "license": "Public domain"
+    },
+    {
+      "id": "p068",
+      "name": "에이브러햄 링컨",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p068.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/960px-Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Alexander Gardner",
+      "license": "Public domain"
+    },
+    {
+      "id": "p069",
+      "name": "나폴레옹 1세",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p069.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/David_-_Napoleon_crossing_the_Alps_-_Malmaison1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Jacques-Louis David",
+      "license": "Public domain"
+    },
+    {
+      "id": "p070",
+      "name": "마하트마 간디",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p070.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/960px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Elliott &amp; Fry",
+      "license": "Public domain"
+    },
+    {
+      "id": "p071",
+      "name": "볼프강 아마데우스 모차르트",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p071.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/960px-Wolfgang-amadeus-mozart_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Barbara Krafft",
+      "license": "Public domain"
+    },
+    {
+      "id": "p072",
+      "name": "루트비히 판 베토벤",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p072.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/960px-Beethoven.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Joseph Karl Stieler",
+      "license": "Public domain"
+    },
+    {
+      "id": "p073",
+      "name": "빈센트 반 고흐",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p073.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/960px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Vincent van Gogh",
+      "license": "Public domain"
+    },
+    {
+      "id": "p077",
+      "name": "마틴 루서 킹 주니어",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p077.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/960px-Martin_Luther_King%2C_Jr..jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Bernie Faingold",
+      "license": "Public domain"
+    },
+    {
+      "id": "p078",
+      "name": "넬슨 만델라",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p078.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/960px-Nelson_Mandela_1994.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Kingkongphoto &amp; www.celebrity-photos.com from Laurel",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "id": "p083",
+      "name": "빌 게이츠",
+      "origin": "해외",
+      "category": "기업인",
+      "file": "p083.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Bogdan Hoyaux / European Union",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p084",
+      "name": "파블로 피카소",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p084.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/960px-Pablo_picasso_1.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Argentina. Revista Vea y Lea",
+      "license": "Public domain"
+    },
+    {
+      "id": "p086",
+      "name": "조지 워싱턴",
+      "origin": "해외",
+      "category": "위인",
+      "file": "p086.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/960px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Gilbert Stuart",
+      "license": "Public domain"
+    },
+    {
+      "id": "p088",
+      "name": "신사임당",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p088.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/50000_won_banknote_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Bank of Korea",
+      "license": "South Korean currency"
+    },
+    {
+      "id": "p089",
+      "name": "이순신",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p089.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/100_won_1983_obverse.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "The Bank of Korea",
+      "license": "South Korean currency"
+    },
+    {
+      "id": "p090",
+      "name": "이상혁 (페이커)",
+      "origin": "국내",
+      "category": "e스포츠",
+      "file": "p090.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Faker_2020_interview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Fomos Esports",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p091",
+      "name": "신유빈",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p091.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%EC%8B%A0%EC%9C%A0%EB%B9%88_%EC%84%A0%EC%88%98.jpg/960px-%EC%8B%A0%EC%9C%A0%EB%B9%88_%EC%84%A0%EC%88%98.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "KTTL 한국프로탁구리그 (한국실업탁구연맹)",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p092",
+      "name": "안세영",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p092.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/An_Se-Young_%28KOR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Nardisoero",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p093",
+      "name": "이정후",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p093.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kiwoom_Heroes_Lee_Jeong-Hoo_%282019%29.jpg/960px-Kiwoom_Heroes_Lee_Jeong-Hoo_%282019%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Trainholic",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "id": "p096",
+      "name": "송혜교",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p096.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg/960px-20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p097",
+      "name": "김태리",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p097.png",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Kim_Tae-ri_PRADA_BEAUTY_Photo_call_August_2024.png/960px-Kim_Tae-ri_PRADA_BEAUTY_Photo_call_August_2024.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p098",
+      "name": "정우성",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p098.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/20210305%E2%80%94Jung_Woo_Sung_%EC%A0%95%EC%9A%B0%EC%84%B1%2C_The_Hyundai_Seoul%2C_Yeouido%2C_Seoul_%2800m11s%29.jpg/960px-20210305%E2%80%94Jung_Woo_Sung_%EC%A0%95%EC%9A%B0%EC%84%B1%2C_The_Hyundai_Seoul%2C_Yeouido%2C_Seoul_%2800m11s%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "사진기자머길",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p099",
+      "name": "이종석",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p099.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/240725_Lee_Jong-suk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p100",
+      "name": "박보영",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p100.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/20240719_Park_Bo-young_3rd_Blue_Dragon_Series_Awards.jpg/960px-20240719_Park_Bo-young_3rd_Blue_Dragon_Series_Awards.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p101",
+      "name": "버락 오바마",
+      "origin": "해외",
+      "category": "정치인",
+      "file": "p101.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Official White House Photo by Pete Souza",
+      "license": "Public domain"
+    },
+    {
+      "id": "p102",
+      "name": "도널드 트럼프",
+      "origin": "해외",
+      "category": "정치인",
+      "file": "p102.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Daniel Torok",
+      "license": "Public domain"
+    },
+    {
+      "id": "p103",
+      "name": "마이클 조던",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p103.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "DOD photo by D. Myles Cullen",
+      "license": "Public domain"
+    },
+    {
+      "id": "p104",
+      "name": "르브론 제임스",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p104.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/960px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p105",
+      "name": "네이마르",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p105.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg/960px-Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Bryan Berlin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p106",
+      "name": "지네딘 지단",
+      "origin": "해외",
+      "category": "스포츠",
+      "file": "p106.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Hadi Abyar",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p107",
+      "name": "레오나르도 디카프리오",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p107.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Raph_PH",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p108",
+      "name": "키아누 리브스",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p108.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/960px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Gabriel Hutchinson",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p109",
+      "name": "아리아나 그란데",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p109.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Barbie Simons",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p110",
+      "name": "저스틴 비버",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p110.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/960px-Justin_Bieber_in_2015.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Lou Stejskal",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p111",
+      "name": "리한나",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p111.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "SIGMA",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p112",
+      "name": "브루노 마스",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p112.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bruno_Mars_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "Original: Chrizta T. derivative work: TheCuriousGnome (talk)",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p113",
+      "name": "에드 시런",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p113.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ed_Sheeran_%288507731877%29.jpg/960px-Ed_Sheeran_%288507731877%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Eva Rinaldi from Sydney, Australia",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "id": "p114",
+      "name": "두아 리파",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p114.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Dua_Lipa-69798_%28cropped%29.jpg/960px-Dua_Lipa-69798_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p115",
+      "name": "스칼릿 조핸슨",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p115.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/960px-Scarlett_Johansson-8588.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "p116",
+      "name": "크리스 에번스",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p116.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chris_Evans_2020_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Tony Cárdenas",
+      "license": "Public domain"
+    },
+    {
+      "id": "p117",
+      "name": "앤 해서웨이",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p117.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Anne_Hathaway-68408_%28cropped%29.jpg/960px-Anne_Hathaway-68408_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "id": "p118",
+      "name": "고든 램지",
+      "origin": "해외",
+      "category": "방송인",
+      "file": "p118.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gordon_Ramsay.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Dave Pullig",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p119",
+      "name": "이이",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p119.jpg",
+      "crop": "80% 40%",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/5000_won_serieV_obverse.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "The Bank of Korea한국은행",
+      "license": "South Korean currency"
+    },
+    {
+      "id": "p120",
+      "name": "이황",
+      "origin": "국내",
+      "category": "위인",
+      "file": "p120.jpg",
+      "crop": "80% 40%",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/1000_won_serieIII_obverse.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "The Bank of Korea한국은행",
+      "license": "South Korean currency"
+    },
+    {
+      "id": "p121",
+      "name": "김연경",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p121.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kim_Yeon-koung_in_December_2025.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "TV10",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p123",
+      "name": "이대호",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p123.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2017_03_27_%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC_%EB%AF%B8%EB%94%94%EC%96%B4%EB%8D%B0%EC%9D%B4_1_%2810%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "WiiWii",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p124",
+      "name": "비욘세",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p124.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Raph_PH",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p125",
+      "name": "마고 로비",
+      "origin": "해외",
+      "category": "배우",
+      "file": "p125.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/SYDNEY%2C_AUSTRALIA_-_JANUARY_23_Margot_Robbie_arrives_at_the_Australian_Premiere_of_%27I%2C_Tonya%27_on_January_23%2C_2018_in_Sydney%2C_Australia_%2828074883999%29_%28cropped_2%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Eva Rinaldi from Sydney Australia",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "id": "p126",
+      "name": "에미넴",
+      "origin": "해외",
+      "category": "가수",
+      "file": "p126.jpg",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Eminem_2021_Color_Corrected.jpg/960px-Eminem_2021_Color_Corrected.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "Brendan_linden",
+      "license": "CC0"
+    },
+    {
+      "id": "p127",
+      "name": "오프라 윈프리",
+      "origin": "해외",
+      "category": "방송인",
+      "file": "p127.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pre_Inaugural_Reception_%2852639556983%29_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Maryland GovPics",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p128",
+      "name": "서장훈",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p128.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Seo_Jang-Hoon.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "LG전자",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "p129",
+      "name": "전현무",
+      "origin": "국내",
+      "category": "방송인",
+      "file": "p129.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/MBC_%27%EB%82%98_%ED%98%BC%EC%9E%90_%EC%82%B0%EB%8B%A4%27_%EA%B8%B0%EC%9E%90_%EA%B0%84%EB%8B%B4%ED%9A%8C_%EC%A0%84%ED%98%84%EB%AC%B4.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "디스패치",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p130",
+      "name": "유해진",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p130.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Yoo_Hae-jin_at_The_King%27s_Warden_production_press_conference.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "TV10",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p131",
+      "name": "이효리",
+      "origin": "국내",
+      "category": "가수",
+      "file": "p131.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%28Marie_Claire_Korea%29_Feel_The_Soul_-_%EC%9D%B4%ED%9A%A8%EB%A6%AC_%284%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Marie Claire Korea",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p132",
+      "name": "조정석",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p132.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Jo_Jung-suk_in_June_2024_02.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p133",
+      "name": "박은빈",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p133.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Park_Eun-bin_in_July_2025.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "티비텐",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p134",
+      "name": "안정환",
+      "origin": "국내",
+      "category": "스포츠",
+      "file": "p134.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ahn_Jung-hwan_in_November_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "artist": "안정환 19",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "p135",
+      "name": "한지민",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p135.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Han_Ji-min_on_December_21%2C_2013.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "artist": "Celina",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "p136",
+      "name": "박신혜",
+      "origin": "국내",
+      "category": "배우",
+      "file": "p136.png",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Park_Shin-hye_in_September_2024_02.png/960px-Park_Shin-hye_in_September_2024_02.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "artist": "K-POPIT 케이팝잇",
+      "license": "CC BY 3.0"
+    }
+  ]
+}
